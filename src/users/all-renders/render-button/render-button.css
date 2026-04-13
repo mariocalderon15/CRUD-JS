@@ -1,0 +1,18 @@
+button{
+    font-size: 1.3rem;
+    margin: 10px;
+    border-radius: 10px;
+    color: var(--accent);
+    background-color: var(--accent-bg);
+    border-color: aqua;
+}
+
+
+#current-page{
+    font-size: 1.3rem;
+    color: aliceblue;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
